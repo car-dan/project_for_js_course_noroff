@@ -1,0 +1,47 @@
+form {
+	padding: 2em;
+	background: whitesmoke;
+	border-radius: 1rem;
+}
+
+input {
+	width: 100%;
+	margin-top: 2px;
+	padding: 10px;
+	font-size: 16px;
+}
+
+button {
+	background: #730217;
+	border: none;
+	width: 200px;
+	padding: 1rem;
+	color: whitesmoke;
+	margin-top: 10px;
+	cursor: pointer;
+	border-radius: 0.2rem;
+}
+
+.form-error {
+	display: none;
+	color: #730217;
+	font-size: 0.9rem;
+	margin-top: 2px;
+}
+
+.validation {
+	display: none;
+	text-align: center;
+}
+
+.validation p {
+	font-size: 1.5rem;
+	padding-top: 15px;
+	display: inline;
+}
+
+.fas {
+	color: green;
+	font-size: 1.5rem;
+	padding-left: 15px;
+}

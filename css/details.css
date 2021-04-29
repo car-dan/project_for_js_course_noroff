@@ -1,0 +1,31 @@
+.container {
+	margin: 15px;
+	padding: 15px;
+	background-color: whitesmoke;
+	border-radius: 15px;
+}
+
+.container h1 {
+	font-size: 2.5rem;
+	text-align: center;
+	color: #730217;
+	padding-top: 15px;
+}
+
+.container img {
+	display: block;
+	width: 100px;
+	margin: 30px auto;
+}
+
+.container ul {
+	/* list-style: none; */
+	font-size: 0.8rem;
+	padding-left: 15px;
+	padding-top: 15px;
+	padding-bottom: 30px;
+}
+
+.foodPairing h2 {
+	text-align: center;
+}
